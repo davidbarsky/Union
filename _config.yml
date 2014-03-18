@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         false
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Student Union
+tagline:          'A reference for Brandeis Students'
+description:      'A site meant to allow students to get involved.'
+url:              http://union.brandeis.edu
+
+author:
+  name:           'David Barsky'
+  url:            https://twitter.com/barsky
+
+paginate:         5
+
+# Custom vars
