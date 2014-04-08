@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Student Union
 tagline:          'A site for the Brandeis Student Union'
 description:      'A website for the Brandeis Student Union. Has resources for the student body.'
-url:              http://lanyon.getpoole.com
+url:              union.brandeis.edu
 
 author:
   name:           'David Barsky'
@@ -21,4 +21,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/davidbarsky/union
+  repo:           https://github.com/thramp/union

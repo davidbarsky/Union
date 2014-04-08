@@ -13,7 +13,7 @@ Follow the steps below, and if you have any questions, email the club support ch
 
 2. Create a Club Constitution. We've attached an example copy.
 
-3. Email a copy of your constitution to [Andrew](mailto:ajsavage@brandeis.edu).
+3. Email a copy of your constitution to [Andrew Savage](mailto:ajsavage@brandeis.edu).
 
 4. Get a hard copy of your constitution signed by a senator other than the club support chair.
 
