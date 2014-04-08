@@ -7,14 +7,18 @@ permalink:        pretty
 
 # Setup
 title:            Student Union
-tagline:          'A reference for Brandeis Students'
-description:      'A site meant to allow students to get involved.'
-url:              http://union.brandeis.edu
+tagline:          'A site for the Brandeis Student Union'
+description:      'A website for the Brandeis Student Union. Has resources for the student body.'
+url:              http://lanyon.getpoole.com
 
 author:
   name:           'David Barsky'
-  url:            https://twitter.com/barsky
+  url:            https://twitter.com/thramp
 
 paginate:         5
 
 # Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/davidbarsky/union
