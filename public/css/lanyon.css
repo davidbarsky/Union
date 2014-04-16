@@ -130,8 +130,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "ff-tisa-web-pro",serif;
-  font-size: .875rem; /* 15px */
+  font-family: "proxima-nova", Helvetica, Arial, sans-serif;
   color: rgba(255,255,255,.6);
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
@@ -324,8 +323,6 @@ a.sidebar-nav-item:focus {
 .related-posts li a:hover small {
   color: inherit;
 }
-
-
 /*
  * Pagination
  *
