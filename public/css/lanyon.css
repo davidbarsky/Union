@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #D1D3D5;
-  background-color: #F8F8F5;
+  background-color: #FFFFFF;
 }
 .masthead-title {
   margin-top: 0;
@@ -131,10 +131,8 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden;
   overflow-y: auto;
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
-  /*color: rgba(255,255,255,.6);*/
-  /*background-color: #202020;*/
-  background-color: #F8F8F5;
-  color: #637580;
+  color: rgba(255,255,255,.6);
+  background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
