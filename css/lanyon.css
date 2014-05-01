@@ -25,11 +25,11 @@ body {
 }
 
 html {
-  font-family: "ff-tisa-web-pro", "Tisa Pro", Georgia, "Times New Roman", serif;
+  font-family: "Tisa Pro", "ff-tisa-web-pro", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "proxima-nova", "Proxima Nova", Helvetica, Arial, sans-serif;
+  font-family: "Proxima Nova", "proxima-nova", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
