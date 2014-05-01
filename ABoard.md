@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FBoard
+title: A-Board Office Hours
 ---
 
 Office hours are below the person's name.
